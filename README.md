@@ -56,6 +56,9 @@ AI-Workflow-Automation/
 ├── .env
 ├── .gitignore
 ├── README.md
+```
+
+---
 
 # ⚙️ Technologies Used
 
