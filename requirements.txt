@@ -1,0 +1,6 @@
+#AI-Workflow-Automation/requirements.txt
+
+streamlit
+python-dotenv
+google-generativeai
+pydantic
